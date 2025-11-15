@@ -27,11 +27,6 @@ Logistic regression with scikit-learn, fairness evaluation with Fairlearn, and e
    - Render SHAP summary and sample local explanations.
    - Render LIME local explanation.
 
-## Deliverables
-- `notebook.ipynb` and exported `notebook.pdf`
-- `report.pdf` (3 pages)
-- `figures/` with saved plots (optional)
-
 ## Notes
 - Sensitive feature: `sex`.
 - Key fairness metrics: selection rate, FPR, TPR by group.
